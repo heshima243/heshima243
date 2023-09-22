@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hello there! I'm [@heshima_Lunyungu_Julien](https://github.com/heshima243), and I'm delighted to have you visit my profile. Here's a little bit about me and what I'm up to:
+Hello there! I'm @heshima_Lunyungu_Julien(https://github.com/heshima243), and I'm delighted to have you visit my profile. Here's a little bit about me and what I'm up to:
 
 ## About Me 👀
 
@@ -18,6 +18,6 @@ I'm open to collaboration on exciting projects and initiatives, whether they are
 
 ## Get in Touch 📫
 
-If you'd like to get in touch with me, whether it's for a potential collaboration, a friendly chat, or any other reason, feel free to reach out through my preferred contact methods. You can find me at [insert contact details here]. I'm always happy to connect with new people and explore new opportunities.
+If you'd like to get in touch with me, whether it's for a potential collaboration, a friendly chat, or any other reason, feel free to reach out through my preferred contact methods. You can find me at [heshimajulien.official@gmail.com]. I'm always happy to connect with new people and explore new opportunities.
 
 Thank you for stopping by my profile, and I look forward to connecting with you soon! 😄
